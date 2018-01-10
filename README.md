@@ -1,5 +1,10 @@
 # escher-cli
+
 a command line tool that makes it easy to run massive experiments on AWS, GCE, etc.
+
+## Organization
+
+up-to-date stuff are in `dev/alpha` branch. We push to master to keep people updated.
 
 ## Todos
 
