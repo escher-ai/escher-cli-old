@@ -4,7 +4,7 @@ a command line tool that makes it easy to run massive experiments on AWS, GCE, e
 
 ## Organization
 
-up-to-date stuff are in [dev/alpha](tree/dev/alpha) branch. We push to master to keep people updated.
+up-to-date stuff are in [dev/alpha](../../tree/dev/alpha) branch. We push to master to keep people updated.
 
 ## Todos
 
