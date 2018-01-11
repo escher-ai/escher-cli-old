@@ -8,6 +8,12 @@ up-to-date stuff are in [dev/alpha](../../tree/dev/alpha) branch. We push to mas
 
 ## Todos
 
+What is next? 
+
+- [x] instance launching is working well
+- [x] figure out daemon for running code
+- [x] figure out logging server for visualizing data.
+
 - [ ] test cli tool when implementing DQN experiments
 - [ ] specify use case
 - [ ] set up blog on ai.escherpad.com

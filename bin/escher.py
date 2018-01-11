@@ -25,6 +25,10 @@ def destroy(id):
     call(["make", "destroy", f'id="{id}"'])
 
 
+def run():
+    launch("ami-50552a2a", "p2.xlarge", "escherpad", "sg-e218a997", "subnet-78d3d250")
+
+
 if __name__ == "__main__":
     id = "i-01a8284c1e5d9d963"
     get_ip(id)
